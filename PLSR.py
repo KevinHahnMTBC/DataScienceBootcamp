@@ -3,6 +3,8 @@
 n = 1000
 p = 7
 
+#hey
+
 # Create random normally distributed data for parameters.
     # Makes an array of tuples based on the number of parameters/features
 X = np.random.normal(size=n * p).reshape((n, p))
